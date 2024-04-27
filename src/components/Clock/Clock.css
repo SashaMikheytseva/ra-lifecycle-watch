@@ -1,0 +1,24 @@
+.clock {
+  width: 15%;
+  margin-top: 20px;
+  margin-right: 25px;
+  position: relative;
+}
+
+.clock-items {
+  display: flex;
+  flex-wrap: wrap;
+  
+
+}
+
+.remove-btn {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 20px;
+  height: 20px;
+  font-size: small;
+  padding: 0; 
+}
+

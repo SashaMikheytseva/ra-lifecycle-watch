@@ -1,0 +1,28 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  
+}
+  
+.form {
+  display: flex;
+  
+}
+
+label {
+  vertical-align: top;
+}
+
+.input-name, .input-timezone {
+  margin-right: 15px;
+  position: relative;
+}
+
+.label-name, .label-zone {
+  position: absolute;
+  top: -30px;
+  left: 10px;
+}
+
+  
